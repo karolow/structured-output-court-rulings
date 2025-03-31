@@ -1,0 +1,38 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+venv/
+env/
+
+# Env variables
+.env
+.env.*
+!.env.template
+
+# Credentials and secrets
+*.pem
+*.key
+*credentials*.json
+*credential*.json
+*creds*.json
+*service-account*.json
+*auth*.json
+
+# Files
+*.jsonl
+*.json
+*.jsonl.gz
+*.json.gz
+*.jsonl.zip
+*.json.zip
+
+# Output directories
+output/
+
