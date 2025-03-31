@@ -40,16 +40,13 @@ uv sync
 ```bash
 export GOOGLE_APPLICATION_CREDENTIALS="/path/to/your-service-account-key.json"
 ```
-
-4. Create `.env` file with required variables:
-
-```
+4. Create `.env` file with required variables.
 
 ## Environment Variables
 
 The following environment variables are required:
 
-```
+```bash
 GEMINI_API_KEY=your_api_key
 GOOGLE_CLOUD_PROJECT=your-project-name
 GOOGLE_CLOUD_LOCATION=europe-central2
