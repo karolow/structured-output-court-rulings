@@ -1,4 +1,4 @@
-# Legal Case Batch Processing with Vertex AI
+# Batch processing for structured output with Vertex AI
 
 This project enables batch processing of legal case rulings using Google Vertex AI and Gemini models. It extracts structured information from legal rulings in a scalable, efficient manner.
 
